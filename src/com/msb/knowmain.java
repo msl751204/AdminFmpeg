@@ -8,6 +8,8 @@ package com.msb;
  */
 public class knowmain {
     public static void main(String[] args){
+        private int age；
+        private string name；
         System.out.println("first APpp");
     }
 
