@@ -7,9 +7,9 @@ package com.msb;
  * @version: 1.0
  */
 public class knowmain {
+    private int age;
+    private String name;
     public static void main(String[] args){
-        private int age；
-        private string name；
         System.out.println("first APpp");
     }
 
